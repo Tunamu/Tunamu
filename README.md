@@ -40,6 +40,8 @@ A mix of front-end and back-end projects showcasing my journey from learning the
 
 Geo-Location-API : A spring rest api project that finds the location by comparing the location information with the data in the SQL table.
 
+<a href="https://github.com/Tunamu/RENTE">Rente - Car Rent Website</a> : A simple car rental website clone that made with html, css and javascript.   
+
 <hr>
 
 ### My Other Accounts: 
