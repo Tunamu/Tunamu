@@ -45,9 +45,9 @@ Geo-Location-API : A spring rest api project that finds the location by comparin
 ### My Other Accounts: 
 <p align='left'>
   <a href="https://www.linkedin.com/in/tuna-mu%C5%9F-a12a18269/">
-    <img alt="My Linkedin Profile" title="Linkedin Link" src="https://github.com/user-attachments/assets/66caf6a5-45a5-4984-a85d-b52e7426b833" height="30px" style="padding-right:15px"></a>
+    <img alt="My Linkedin Profile" title="Linkedin Link" src="https://img.shields.io/badge/Linkedin-%230A66C2?logo=linkedin&logoColor=white" height="30px"></a>
   <a href="https://www.hackerrank.com/profile/tunamuswork">
-    <img alt="My HackerRank Profile" title="HackerRank Link" src="https://github.com/user-attachments/assets/3e87d794-1945-42f3-ae7a-28771232d1ae" height="30px" style="padding-right:15px"></a>
+    <img alt="My HackerRank Profile" title="HackerRank Link" src="https://img.shields.io/badge/HackerRank-%2300EA64?logo=hackerrank&logoColor=white" height="30px"></a>
   <a href="https://www.w3profile.com/Tunamus">
-    <img alt="My W3Schools Profile" title="W3Schools Link" src="https://github.com/user-attachments/assets/30df1f97-1786-46b7-b106-ee3304a124d4" height="30px" style="padding-right:15px"></a>
+    <img alt="My W3Schools Profile" title="W3Schools Link" src="https://img.shields.io/badge/W3Schools-%2304AA6D?logo=w3schools&logoColor=white" height="30px"></a>
 </p>
