@@ -14,26 +14,40 @@ Front-end Skills:React, React Native-Expo
 ### 🌱 What I’m Learning:
 Advanced backend technologies and frameworks to build robust and scalable applications.
 Continuously improving my problem-solving skills by working on various coding challenges and projects.
-<hr>
+<hr><br>
 
-### 💼 Programming languages ​​I know:
-#### <p>Front-end:</p>
-<img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-<img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-<img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-<img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-<img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-<br>
+<table>
+<tr>
+  <td width='55%'>
+    
+  ### 💼 Programming languages ​​I know:
+  #### <p>Front-end:</p>
+  <img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+  <img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <br>
 
-#### <p>Back-end:</p>
-<img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-<img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-<img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-<img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
-<img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-<img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-<img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-<br><br><hr>
+  #### <p>Back-end:</p>
+  <img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
+  <img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="left" alt="Front-end" width="30p" style="padding-rigth:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <br><br>
+  </td>
+  <td width='0%'>
+  </td>
+  <td width='45%'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tunamu&theme=gotham&hide_border=true&layout=compact" align="left" style="width: 100%" />
+  </td>
+</tr>
+</table>
+
+</br><hr>
 
 ### 💡 My GitHub Projects:
 A mix of front-end and back-end projects showcasing my journey from learning the basics to building more complex systems.
