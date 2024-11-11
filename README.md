@@ -2,7 +2,7 @@
 <hr>
 
 ## Hello!! 👋
-I'm Tuna, a passionate 3rd-year Computer Engineering student with a strong interest in both front-end and back-end development.
+I'm Tuna, a 3rd-year Computer Engineering student with a strong interest in both front-end and back-end development.
 
 ### 🖥 What I’m Currently Working On:
 
