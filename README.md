@@ -56,7 +56,9 @@ Geo-Location-API : A spring rest api project that finds the location by comparin
 
 <a href="https://github.com/Tunamu/RENTE">Rente - Car Rent Website</a> : A simple car rental website clone that made with html, css and javascript.   
 
-<a href="https://github.com/Tunamu/Decision-Making-Analysis-Assignment-2">Kepner-Tregoe Webiste<a/> : A wibsite that calculates the weighted sum and the best alternative using Kepner-Tregoe method.
+<a href="https://github.com/Tunamu/Decision-Making-Analysis-Assignment-2">Kepner-Tregoe Webiste<a/> : A website that calculates the weighted sum and the best alternative using Kepner-Tregoe method.
+
+<a href="https://github.com/Tunamu/Web-Fundamentals">Shuttle&Shine Website<a/> : A website for a imaginary gallery. The website has info page and gallery page that holds images and the prices. 
 
 <hr>
 
